@@ -336,6 +336,7 @@ footer{
 	  .buttons {
 		  display: flex;
 		  justify-content: space-around;
+		  flex-wrap: wrap;
 	  }
 @media (max-width: 1024px) and (orientation: landscape){
 	.main{
